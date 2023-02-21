@@ -1,5 +1,3 @@
-
-Console.WriteLine("Hello, World!");
 Console.Clear();
 Console.Write("Введите число: ");
 int num = 8;
